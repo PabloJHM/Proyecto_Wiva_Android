@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Wiva</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="a"></string>
+    <string name="titulo_deseo">Deseo</string>
+    <string name="titulo_buscador">Buscador</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+
+    <string name="nombre">Name</string>
+    <string name="apellidos">Surnames</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Password</string>
+    <string name="confirmaContraseña">Confirm Password</string>
+    <string name="fechaNacimiento">Birth Date</string>
+    <string name="telefono">Phone</string>
+    <string name="login">Login</string>
+    <string name="registrar">Register</string>
+
+    <string name="aceptar">Acept</string>
+    <string name="cancelar">Cancel</string>
+
+    <string name="wishName">Wish Name</string>
+    <string name="wishPrice">Wish Price</string>
+    <string name="wishDetails">Details</string>
+    <string name="saveWish">Save Wish</string>
+    <string name="cancel">Cancel</string>
+    <string name="checkPrivate">Private</string>
+    <string name="wishLevel">How much do you want it?</string>
+    <string name="wishList">Wish List: </string>
+    <string name="birthdayClose">Birthday is coming!</string>
+
+    <string name="ok">Ok</string>
+    <string name="editar">Edit</string>
+    <string name="borrar">Delete</string>
+    <string name="title_activity_edita_deseo">Edit Wish</string>
+
+    <string name="addDeseo">Add Wish</string>
+    <string name="addListaDeseo">Add new wish list</string>
+    <string name="ajustes">Options</string>
+
+    <string name="name">Name</string>
+    <string name="status">Status</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="changePassword">Change Password</string>
+    <string name="save">Save changes</string>
+    <string name="title_activity_edit_password">EditPassword</string>
+    <string name="currentPassHint">Current Password</string>
+    <string name="newPasswordHint">New Password</string>
+    <string name="confirmNewPasswordHint">Confirm New Password</string>
+    <string name="editStars">Change the desire grade</string>
+    <string name="buttonLocations">Where to find this product</string>
+    <string name="wishAnotation">Description</string>
+    <string name="addNewWishList">Create a new wish list</string>
+    <string name="listName">List name</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="noLogin">Email or password incorrect, try again</string>
+    <string name="noScan">No scan data received!</string>
+    <string name="tab1">Wish Lists</string>
+    <string name="tab2">Product List</string>
+    <string name="tab3">Firend List</string>
+    <string name="choose">Take picture from</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="searching">Searching...</string>
+    <string name="friendWish">Friend Wishs</string>
+    <string name="stringEmpty">Field Empty</string>
+    <string name="newPassNotEquals">The confirmation is different from the new password</string>
+    <string name="newPassEqualsOldOne">The new password must be different from your previous one</string>
+    <string name="oldPassError">The actual password is not correct</string>
+    <string name="noInternet">Unable to connect to the internet</string>
+    <string name="passChanged">Password changed sucessfully</string>
+    <string name="delete">You want to remove this user from your friend list?</string>
+    <string name="deleteWishList">You want to remove this list from your wish lists?</string>
+    <string name="deleteWish">You want to remove this wish from this list?</string>
+    <string name="removedFriend">User removed from your friend list</string>
+    <string name="removedWishList">List removed from your wish lists</string>
+    <string name="removedWish">Wish removed from this lists</string>
+
+</resources>

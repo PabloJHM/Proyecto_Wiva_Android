@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:id="@+id/imageView3"
+                android:src="@android:mipmap/sym_def_app_icon"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/ivBirthDay"
+                android:src="@drawable/birthdaycake"
+                android:layout_marginTop="23dp"
+                android:layout_gravity="right|bottom"
+                android:visibility="gone"/>
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Friend_Name"
+                android:id="@+id/tv"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="13dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Friend_Message"
+                android:id="@+id/tv2"
+                android:layout_marginLeft="13dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
